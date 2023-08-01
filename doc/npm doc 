@@ -1,0 +1,7 @@
+
+npm (node package manager) là một công cụ quản lý các thư viện chúng 
+ta có được khi cài đặt nodejs (npm được cài sẵn khi chúng ta cài nodejs). 
+Nó cung cấp cho những lập trình viên cách để cài đặt những thư viện sử dụng ở toàn bộ các dự án của mình hoặc có thể 
+gói gọn trong một dự án.
+
+https://viblo.asia/p/su-khac-nhau-giua-npm-va-npx-bWrZnxM95xw

@@ -1,0 +1,18 @@
+{
+  "name": "play",
+  "version": "1.0.0",
+  "description": "just learning",
+  "main": "index.js",
+  "scripts": {
+    "tests:chrome": "playwright test --config=playwright.config.ts",
+    "tests:sarafi": "playwright test --config=playwright.config.ts",
+    "tests:e2e": "playwright test --config=e2e.config.ts",
+    "tests:api": "playwright test --config=api.config.ts"
+  },
+  "author": "viet le",
+  "license": "ISC",
+  "dependencies": {
+    "@playwright/test": "^1.36.2",
+    "prettier": "^3.0.0"
+  }
+}
